@@ -22,7 +22,21 @@ Data Visualization was carried out using Microsoft Excel, where several pivot ta
 The visualizations highlighted churn rate across various customer attributes, including contract type, partner status, internet service provider, age, and dependency status. Additionally, the charts illustrated the average monthly charges associated with each category, helping to uncover trends and support meaningful interpretation of customer behavior.
 
 # Key Performance Indicators - KPIs
-Total Customers - 7043. Churn Rate - 26.54%. Churn Customers - 1869. Retained Customers - 5174.
-Month-to-month contracts have the highest churn rate at 42.7%, followed by one-year contracts at 11.3% and two-year contracts with the lowest at 2.8%. Churn rates range significantly depending on contract duration, with longer contracts resulting in lower churn rates. Customers on month-to-month contracts pay the highest average monthly fee of $66.40, followed by one-year contracts at $65.05, and two-year contracts with the lowest average monthly price of $60.77. Despite the disparity in churn rates, the average monthly prices vary very little between contract types.
+This analysis explores key factors influencing customer churn, with a focus on a number of factors. The dataset consists of 7,043 customers, with a churn rate of 26.54% — translating to 1,869 churned customers and 5,174 retained customers.
+Month-to-month contracts have the highest churn rate at 23.5%, followed by one-year contracts at 2.36% and two-year contracts with the lowest at 0.88%. Churn rates range significantly depending on contract duration, with longer contracts resulting in lower churn rates. Customers on month-to-month contracts pay the highest average monthly fee of $66.40, followed by one-year contracts at $65.05, and two-year contracts with the lowest average monthly price of $60.77. Despite the disparity in churn rates, the average monthly prices vary very little between contract types.
+
+Electronic Check methods was the most common method of payment amoong Customers as about 33.58% of the customer uses this payment method, 22.89% uses mail check, 21.92% and 21.61% using bank transfers and credit cards respectively. Electronic check methods have the highest churn rate at 57.30%.
+
+The Internet service provider was a determinant on the churn rate of customers, as it was observed that fiberone which had the highest percentage of customers at 43.96% also had the highest churn rate at 69.40%. This high churn rate can be attributed to the its average monthly cost as was observed that it had the highest monthly average cost @ N91.50.
+
+Most customers are not senior Citizens, as only 16.21% of customer is 65 years of older. However the Churn rate is higher with senior citizens.
+
+Customers without dependents have a greater churn rate (21.91%) than those with dependents (4.635%). Customers who have dependents have lower churn rates. 
+
+# Recommendations
+Contracts category:Giving discount and other incentives will encourage customers to opt for longer term contracts, which on the long run will help reduce the rate at whoch customers churn. Improving the value proposition for month-to-month subscribers and strategically upselling them to one-year contracts can further bolster retention efforts. Ensuring satisfaction across all contract types is crucial for maintaining long-term customer relationships. 
+Partnership with Internet Service Providers category: it is important to ensure that internet service providers are help accountable for the services given to customers, such that customers paying high avergae monthly costs enjoy the benefits of what is being paid for, this will help also help to reduce churn.
+Senior Citizens Category: providing specialized offers and services tailored to this demographic can foster loyalty and retention. Enhancing the perceived value of subscriptions for senior citizens, along with offering personalized support and assistance, can help address their unique needs. Tailoring marketing messages to resonate with seniors and senior citizens can further enhance engagement and retention efforts. Dependents category: providing targeted discounts and services for customers with dependents can foster loyalty, while enhancing the value proposition for those without dependents can justify their subscription costs. Offering educational resources and support for customers with dependents can help them maximize the benefits of their subscriptions. Tailoring marketing strategies to address the unique needs of each group within this category can further strengthen retention efforts.
+
 
 
